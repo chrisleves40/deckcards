@@ -1,0 +1,13 @@
+apply plugin: 'java'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	compile project(':dao')
+	implementation('org.springframework:spring-context:5.0.10.RELEASE')
+	implementation('org.apache.commons:commons-lang3:3.8.1')	
+	testImplementation('org.mockito:mockito-core:2.23.0')
+	testImplementation('junit:junit:4.12')	
+}

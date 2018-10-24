@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.deckcards.business.PokerDealDeckSvcTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-10-24T06:12:19" hostname="DESKTOP-OP2EE14" time="0.071">
+  <properties/>
+  <testcase name="testNeverTheSameCardDealed" classname="challenge.deckcards.business.PokerDealDeckSvcTest" time="0.066"/>
+  <testcase name="testCountDealedCardsUntilIsNull" classname="challenge.deckcards.business.PokerDealDeckSvcTest" time="0.001"/>
+  <testcase name="testGenerateAndSuffleDealDeck" classname="challenge.deckcards.business.PokerDealDeckSvcTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
