@@ -40,6 +40,7 @@ business sub module
 - Add a mandatory X-Correlation-Id header to have a unique request Id provided from each client.
 - Check for the synchronized code in case the application will be load balanced.
 - Add REST request to clean the cache, improve the cache to maybe clean itself after some time, avoid to fill the memory server.
+- Improve REST alignment with the TMFORM Specication (https://www.tmforum.org/)
 
 
 
